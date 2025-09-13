@@ -1,9 +1,3 @@
-太好了 👍 你给我看了项目的真实目录结构，我可以帮你把 README 里的 **Architecture 部分** 和 **Quickstart** 部分改得更贴合你现在的 repo，同时加上更专业的描述。
-
-这是一个升级版 README（直接覆盖你 repo 里的 README.md 就可以）：
-
----
-
 # 📊 Telco Customer Churn – End-to-End Data Science Project
 
 **Goal**: Predict customer churn and design data-driven retention strategies
