@@ -1,0 +1,141 @@
+﻿customerID,churn_prob,true_churn,seg_new,seg_high_fee,top_reasons
+1069-XAIEM,0.96523,1,新客,一般账单,tenure（降低流失风险↓2.199）；Contract_Month-to-month（降低流失风险↓0.922）；Contract_Two year（降低流失风险↓0.660）
+6230-BSUXY,0.96523,1,新客,一般账单,MonthlyCharges（推高流失风险↑0.945）；tenure（推高流失风险↑0.545）；Contract_Month-to-month（推高流失风险↑0.533）
+6861-XWTWQ,0.96520644,1,非新客,高账单,Contract_Month-to-month（降低流失风险↓0.708）；InternetService_Fiber optic（降低流失风险↓0.273）；Contract_One year（推高流失风险↑0.201）
+5178-LMXOP,0.96451724,1,新客,高账单,Contract_Month-to-month（推高流失风险↑0.536）；PaperlessBilling_True（降低流失风险↓0.345）；tenure（降低流失风险↓0.311）
+1628-BIZYP,0.9612006,0,新客,一般账单,tenure（降低流失风险↓2.064）；Contract_Month-to-month（降低流失风险↓0.861）；Contract_Two year（降低流失风险↓0.696）
+2202-CUYXZ,0.9609138,1,新客,一般账单,MonthlyCharges（推高流失风险↑0.636）；Contract_Month-to-month（推高流失风险↑0.496）；InternetService_Fiber optic（推高流失风险↑0.313）
+7181-BQYBV,0.9595444,1,新客,高账单,MonthlyCharges（推高流失风险↑0.802）；Contract_Month-to-month（推高流失风险↑0.490）；InternetService_Fiber optic（推高流失风险↑0.325）
+0295-PPHDO,0.9594078,1,新客,高账单,InternetService_No（降低流失风险↓0.664）；Contract_Month-to-month（推高流失风险↑0.444）；InternetService_Fiber optic（降低流失风险↓0.420）
+0970-ETWGE,0.9584687,1,新客,一般账单,Contract_Month-to-month（降低流失风险↓1.001）；PaymentMethod_Credit card (automatic)（降低流失风险↓0.614）；Contract_Two year（降低流失风险↓0.614）
+2514-GINMM,0.9579258,1,新客,一般账单,Contract_Month-to-month（推高流失风险↑0.417）；InternetService_Fiber optic（降低流失风险↓0.377）；PaymentMethod_Electronic check（推高流失风险↑0.361）
+3722-WPXTK,0.95631623,1,新客,一般账单,MonthlyCharges（推高流失风险↑0.788）；tenure（降低流失风险↓0.739）；Dependents_Yes（降低流失风险↓0.442）
+9248-OJYKK,0.9561138,1,新客,一般账单,tenure（降低流失风险↓1.981）；Contract_Month-to-month（降低流失风险↓0.927）；Contract_Two year（降低流失风险↓0.622）
+2609-IAICY,0.95525837,1,新客,一般账单,tenure（降低流失风险↓0.533）；InternetService_Fiber optic（降低流失风险↓0.457）；Contract_Month-to-month（推高流失风险↑0.407）
+1400-MMYXY,0.9523805,1,新客,高账单,Contract_Month-to-month（推高流失风险↑0.588）；InternetService_Fiber optic（推高流失风险↑0.329）；SeniorCitizen_1（推高流失风险↑0.213）
+0655-RBDUG,0.9514254,1,非新客,高账单,Contract_Month-to-month（推高流失风险↑0.424）；InternetService_Fiber optic（降低流失风险↓0.403）；PaperlessBilling_True（降低流失风险↓0.278）
+8821-XNHVZ,0.94793355,1,新客,一般账单,tenure（降低流失风险↓2.335）；Contract_Month-to-month（降低流失风险↓1.083）；Contract_Two year（降低流失风险↓0.706）
+5196-SGOAK,0.9458712,1,新客,一般账单,Contract_Month-to-month（降低流失风险↓1.094）；Contract_Two year（降低流失风险↓1.043）；MonthlyCharges（降低流失风险↓0.738）
+9507-EXLTT,0.94425833,1,新客,一般账单,Contract_Month-to-month（推高流失风险↑0.540）；InternetService_Fiber optic（推高流失风险↑0.307）；PaymentMethod_Electronic check（推高流失风险↑0.283）
+5419-CONWX,0.9420257,1,新客,高账单,MonthlyCharges（推高流失风险↑0.997）；Contract_Month-to-month（降低流失风险↓0.688）；tenure（降低流失风险↓0.362）
+8375-DKEBR,0.94173,1,新客,一般账单,Contract_Month-to-month（降低流失风险↓0.821）；tenure（降低流失风险↓0.681）；InternetService_Fiber optic（降低流失风险↓0.235）
+1448-PWKYE,0.9390072,1,新客,一般账单,tenure（推高流失风险↑0.635）；Contract_Month-to-month（推高流失风险↑0.632）；SeniorCitizen_1（推高流失风险↑0.274）
+3716-BDVDB,0.93702453,1,新客,一般账单,Contract_Month-to-month（推高流失风险↑0.430）；InternetService_Fiber optic（降低流失风险↓0.394）；PaymentMethod_Electronic check（推高流失风险↑0.309）
+0679-IDSTG,0.93690646,1,新客,一般账单,MonthlyCharges（降低流失风险↓1.187）；Contract_Month-to-month（降低流失风险↓0.892）；tenure（降低流失风险↓0.786）
+8884-ADFVN,0.9368721,1,非新客,高账单,Contract_Month-to-month（降低流失风险↓0.977）；InternetService_No（降低流失风险↓0.721）；PaperlessBilling_True（降低流失风险↓0.254）
+1853-UDXBW,0.93665904,1,新客,一般账单,tenure（降低流失风险↓1.016）；Contract_Month-to-month（推高流失风险↑0.511）；MonthlyCharges（降低流失风险↓0.463）
+0390-DCFDQ,0.93660134,1,新客,一般账单,MonthlyCharges（降低流失风险↓0.548）；Contract_Month-to-month（推高流失风险↑0.424）；InternetService_Fiber optic（降低流失风险↓0.398）
+2754-SDJRD,0.93635744,0,非新客,高账单,Contract_Month-to-month（推高流失风险↑0.528）；MonthlyCharges（降低流失风险↓0.396）；PaperlessBilling_True（降低流失风险↓0.367）
+7180-PISOG,0.93530697,1,新客,一般账单,MonthlyCharges（推高流失风险↑0.565）；Contract_Month-to-month（推高流失风险↑0.489）；InternetService_Fiber optic（推高流失风险↑0.361）
+1820-TQVEV,0.9350824,1,新客,一般账单,Contract_Month-to-month（降低流失风险↓0.850）；InternetService_No（降低流失风险↓0.782）；Contract_Two year（降低流失风险↓0.560）
+2254-DLXRI,0.9350444,0,新客,一般账单,Contract_Month-to-month（推高流失风险↑0.603）；tenure（推高流失风险↑0.554）；InternetService_Fiber optic（推高流失风险↑0.288）
+5542-TBBWB,0.9346097,0,新客,一般账单,tenure（降低流失风险↓0.640）；Contract_Month-to-month（推高流失风险↑0.473）；PaymentMethod_Electronic check（推高流失风险↑0.299）
+9804-ICWBG,0.9346097,1,新客,一般账单,tenure（推高流失风险↑1.339）；Contract_Month-to-month（推高流失风险↑0.556）；InternetService_Fiber optic（降低流失风险↓0.384）
+3422-LYEPQ,0.93369895,1,新客,一般账单,MonthlyCharges（降低流失风险↓1.862）；tenure（降低流失风险↓1.642）；Contract_Month-to-month（降低流失风险↓0.861）
+3006-XIMLN,0.93324924,1,新客,高账单,tenure（降低流失风险↓1.446）；Contract_Month-to-month（降低流失风险↓0.869）；Contract_Two year（降低流失风险↓0.555）
+4415-IJZTP,0.93284106,1,新客,一般账单,Contract_Month-to-month（推高流失风险↑0.608）；tenure（推高流失风险↑0.585）；InternetService_Fiber optic（推高流失风险↑0.278）
+6372-RFVNS,0.9326196,1,新客,一般账单,tenure（降低流失风险↓1.983）；Contract_Month-to-month（推高流失风险↑0.423）；InternetService_Fiber optic（推高流失风险↑0.268）
+4445-ZJNMU,0.93200105,0,非新客,高账单,tenure（推高流失风险↑0.658）；Contract_Month-to-month（推高流失风险↑0.541）；SeniorCitizen_1（推高流失风险↑0.512）
+0235-KGSLC,0.92760855,1,新客,一般账单,tenure（降低流失风险↓1.124）；MonthlyCharges（降低流失风险↓1.087）；Contract_Month-to-month（降低流失风险↓0.987）
+6023-YEBUP,0.92668104,1,新客,高账单,tenure（推高流失风险↑1.262）；Contract_Month-to-month（推高流失风险↑0.614）；InternetService_Fiber optic（推高流失风险↑0.336）
+3244-DCJWY,0.9263721,1,新客,一般账单,tenure（降低流失风险↓0.695）；InternetService_Fiber optic（降低流失风险↓0.463）；MonthlyCharges（推高流失风险↑0.462）
+1768-ZAIFU,0.9259919,1,新客,一般账单,MonthlyCharges（降低流失风险↓1.831）；tenure（降低流失风险↓1.277）；Contract_Month-to-month（降低流失风险↓1.027）
+8380-PEFPE,0.925899,1,新客,一般账单,Contract_Month-to-month（推高流失风险↑0.607）；tenure（推高流失风险↑0.556）；InternetService_Fiber optic（推高流失风险↑0.279）
+6137-NICCO,0.92559326,0,新客,高账单,Contract_Month-to-month（推高流失风险↑0.505）；tenure（降低流失风险↓0.447）；MonthlyCharges（降低流失风险↓0.359）
+8775-ERLNB,0.9222142,0,新客,一般账单,InternetService_No（降低流失风险↓0.763）；Contract_Month-to-month（推高流失风险↑0.566）；InternetService_Fiber optic（降低流失风险↓0.383）
+8161-QYMTT,0.92195755,0,非新客,高账单,Contract_Month-to-month（降低流失风险↓0.701）；tenure（降低流失风险↓0.513）；InternetService_Fiber optic（降低流失风险↓0.295）
+3707-GNWHM,0.9215285,1,新客,一般账单,Contract_Month-to-month（推高流失风险↑0.381）；InternetService_Fiber optic（推高流失风险↑0.349）；PaymentMethod_Electronic check（推高流失风险↑0.229）
+7409-KIUTL,0.92119783,1,新客,一般账单,Contract_Month-to-month（推高流失风险↑0.568）；InternetService_Fiber optic（推高流失风险↑0.332）；PaymentMethod_Electronic check（推高流失风险↑0.291）
+8593-WHYHV,0.9207877,1,新客,一般账单,InternetService_Fiber optic（降低流失风险↓0.477）；MonthlyCharges（降低流失风险↓0.462）；Contract_Month-to-month（推高流失风险↑0.430）
+7218-HKQFK,0.9202926,1,新客,高账单,MonthlyCharges（降低流失风险↓1.891）；tenure（降低流失风险↓1.744）；Contract_Month-to-month（降低流失风险↓0.878）
+1731-TVIUK,0.91957384,1,新客,高账单,tenure（降低流失风险↓0.738）；MonthlyCharges（降低流失风险↓0.715）；Contract_Month-to-month（推高流失风险↑0.536）
+2545-EBUPK,0.91920036,0,新客,一般账单,tenure（降低流失风险↓0.946）；Contract_Month-to-month（降低流失风险↓0.858）；InternetService_No（降低流失风险↓0.585）
+5167-ZFFMM,0.9176594,1,新客,高账单,tenure（推高流失风险↑1.303）；Contract_Month-to-month（推高流失风险↑0.543）；MonthlyCharges（推高流失风险↑0.430）
+8622-ZLFKO,0.91338855,0,新客,高账单,InternetService_No（降低流失风险↓0.714）；Contract_Month-to-month（推高流失风险↑0.555）；MonthlyCharges（降低流失风险↓0.437）
+4713-LZDRV,0.9107424,1,新客,一般账单,tenure（推高流失风险↑0.580）；Contract_Month-to-month（推高流失风险↑0.487）；InternetService_Fiber optic（降低流失风险↓0.428）
+4750-ZRXIU,0.910649,1,新客,一般账单,tenure（推高流失风险↑1.288）；Contract_Month-to-month（推高流失风险↑0.552）；InternetService_Fiber optic（降低流失风险↓0.382）
+6910-HADCM,0.9090417,1,新客,一般账单,Contract_Month-to-month（推高流失风险↑0.589）；tenure（推高流失风险↑0.362）；InternetService_Fiber optic（推高流失风险↑0.361）
+8739-XNIKG,0.908571,0,新客,一般账单,Contract_Month-to-month（降低流失风险↓0.715）；tenure（降低流失风险↓0.534）；InternetService_Fiber optic（降低流失风险↓0.272）
+4919-IKATY,0.9081364,1,新客,一般账单,Contract_Month-to-month（降低流失风险↓0.837）；tenure（降低流失风险↓0.651）；PaymentMethod_Electronic check（降低流失风险↓0.204）
+7005-CCBKV,0.90594864,1,新客,一般账单,Contract_Month-to-month（降低流失风险↓0.771）；tenure（降低流失风险↓0.622）；InternetService_Fiber optic（降低流失风险↓0.249）
+9057-SIHCH,0.90445614,1,新客,高账单,Contract_Month-to-month（降低流失风险↓1.009）；MonthlyCharges（降低流失风险↓0.826）；Contract_Two year（降低流失风险↓0.672）
+5186-SAMNZ,0.90437794,1,新客,一般账单,tenure（降低流失风险↓2.287）；Contract_Month-to-month（降低流失风险↓0.928）；Contract_Two year（降低流失风险↓0.703）
+5376-DEQCP,0.9042132,1,新客,一般账单,MonthlyCharges（降低流失风险↓2.165）；tenure（降低流失风险↓1.063）；Contract_Month-to-month（降低流失风险↓0.902）
+9643-AVVWI,0.9036511,0,新客,一般账单,Contract_Month-to-month（降低流失风险↓0.954）；tenure（降低流失风险↓0.465）；MonthlyCharges（降低流失风险↓0.247）
+8266-VBFQL,0.9020413,0,新客,高账单,InternetService_Fiber optic（降低流失风险↓0.457）；Contract_Month-to-month（推高流失风险↑0.452）；tenure（推高流失风险↑0.343）
+1522-VVDMG,0.90117466,1,非新客,一般账单,Contract_Month-to-month（推高流失风险↑0.496）；InternetService_Fiber optic（降低流失风险↓0.408）；tenure（推高流失风险↑0.335）
+8212-DJRCH,0.9008846,0,新客,高账单,tenure（推高流失风险↑1.117）；Contract_Month-to-month（推高流失风险↑0.532）；InternetService_Fiber optic（降低流失风险↓0.395）
+4587-VVTOX,0.8982734,1,新客,高账单,Contract_Month-to-month（推高流失风险↑0.481）；InternetService_Fiber optic（降低流失风险↓0.428）；tenure（推高流失风险↑0.343）
+1143-NMNQJ,0.8977928,1,新客,一般账单,Contract_Month-to-month（推高流失风险↑0.415）；InternetService_Fiber optic（降低流失风险↓0.413）；PaymentMethod_Electronic check（降低流失风险↓0.288）
+9741-YLNTD,0.8975013,0,新客,一般账单,Contract_Month-to-month（降低流失风险↓0.799）；PaperlessBilling_True（降低流失风险↓0.291）；Contract_One year（推高流失风险↑0.290）
+4706-DGAHW,0.8956402,0,新客,一般账单,tenure（推高流失风险↑1.545）；Contract_Month-to-month（推高流失风险↑0.631）；InternetService_Fiber optic（推高流失风险↑0.351）
+8080-DDEMJ,0.8956402,1,新客,一般账单,tenure（降低流失风险↓2.392）；Contract_Month-to-month（降低流失风险↓0.917）；InternetService_No（降低流失风险↓0.683）
+3063-QFSZL,0.8950544,1,新客,一般账单,MonthlyCharges（降低流失风险↓1.241）；Contract_Month-to-month（降低流失风险↓1.082）；InternetService_No（降低流失风险↓0.813）
+5501-TVMGM,0.8950544,0,新客,一般账单,MonthlyCharges（降低流失风险↓0.609）；Contract_Month-to-month（推高流失风险↑0.529）；tenure（降低流失风险↓0.525）
+0616-ATFGB,0.894164,1,新客,一般账单,Contract_Month-to-month（降低流失风险↓1.007）；tenure（降低流失风险↓0.590）；PaperlessBilling_True（降低流失风险↓0.291）
+2025-JKFWI,0.8921134,1,非新客,高账单,Contract_Month-to-month（降低流失风险↓0.665）；tenure（降低流失风险↓0.515）；InternetService_Fiber optic（降低流失风险↓0.232）
+2034-GDRCN,0.8920389,1,新客,高账单,Contract_Month-to-month（降低流失风险↓0.918）；InternetService_No（降低流失风险↓0.623）；MonthlyCharges（降低流失风险↓0.558）
+5129-JLPIS,0.8919578,0,非新客,高账单,tenure（降低流失风险↓0.815）；Contract_Month-to-month（降低流失风险↓0.700）；Contract_Two year（降低流失风险↓0.619）
+9752-ZNQUT,0.891925,0,新客,一般账单,Contract_Month-to-month（推高流失风险↑0.579）；InternetService_Fiber optic（推高流失风险↑0.361）；PaymentMethod_Electronic check（降低流失风险↓0.226）
+6630-UJZMY,0.8914973,0,新客,一般账单,MonthlyCharges（降低流失风险↓1.508）；InternetService_No（降低流失风险↓0.804）；tenure（推高流失风险↑0.580）
+7952-OBOYL,0.8913332,0,新客,一般账单,Contract_Month-to-month（降低流失风险↓1.106）；Contract_Two year（降低流失风险↓0.698）；InternetService_No（降低流失风险↓0.580）
+6857-VWJDT,0.88988286,1,新客,高账单,MonthlyCharges（降低流失风险↓1.081）；Contract_Month-to-month（降低流失风险↓0.958）；InternetService_No（降低流失风险↓0.671）
+4927-WWOOZ,0.88980633,0,新客,高账单,tenure（降低流失风险↓1.151）；Contract_Month-to-month（降低流失风险↓0.883）；Contract_Two year（降低流失风险↓0.639）
+2867-UIMSS,0.88899374,1,新客,一般账单,Contract_Month-to-month（降低流失风险↓0.908）；MonthlyCharges（推高流失风险↑0.770）；PaperlessBilling_True（降低流失风险↓0.418）
+3677-IYRBF,0.8872053,1,新客,一般账单,tenure（推高流失风险↑1.363）；Contract_Month-to-month（推高流失风险↑0.618）；InternetService_Fiber optic（推高流失风险↑0.346）
+9611-CTWIH,0.88680774,1,新客,一般账单,Contract_Month-to-month（降低流失风险↓1.054）；InternetService_No（降低流失风险↓0.775）；MonthlyCharges（降低流失风险↓0.615）
+7209-JCUDS,0.88614756,1,非新客,高账单,tenure（降低流失风险↓1.533）；MonthlyCharges（降低流失风险↓0.801）；Contract_Month-to-month（推高流失风险↑0.301）
+9927-DSWDF,0.88602865,0,非新客,高账单,Contract_Month-to-month（推高流失风险↑0.605）；tenure（推高流失风险↑0.508）；InternetService_Fiber optic（推高流失风险↑0.358）
+0876-WDUUZ,0.88583183,1,新客,一般账单,tenure（推高流失风险↑1.300）；SeniorCitizen_1（推高流失风险↑0.643）；Contract_Month-to-month（推高流失风险↑0.563）
+9420-LOJKX,0.8848277,1,非新客,高账单,MonthlyCharges（推高流失风险↑0.563）；Contract_Month-to-month（推高流失风险↑0.448）；InternetService_Fiber optic（推高流失风险↑0.311）
+4806-KEXQR,0.88373727,1,新客,一般账单,tenure（降低流失风险↓0.708）；Contract_Month-to-month（降低流失风险↓0.697）；Contract_Two year（降低流失风险↓0.522）
+9907-SWKKF,0.8822496,1,新客,一般账单,Contract_Month-to-month（推高流失风险↑0.557）；MonthlyCharges（降低流失风险↓0.315）；InternetService_Fiber optic（推高流失风险↑0.287）
+6969-MVBAI,0.88221145,0,非新客,高账单,Contract_Month-to-month（推高流失风险↑0.478）；PaperlessBilling_True（降低流失风险↓0.391）；InternetService_Fiber optic（推高流失风险↑0.291）
+5760-FXFVO,0.8814507,0,新客,一般账单,MonthlyCharges（降低流失风险↓1.374）；Contract_Month-to-month（降低流失风险↓0.999）；Contract_Two year（降低流失风险↓0.786）
+5052-PNLOS,0.8811402,1,新客,高账单,tenure（降低流失风险↓0.669）；Contract_Month-to-month（推高流失风险↑0.516）；InternetService_Fiber optic（推高流失风险↑0.338）
+8752-STIVR,0.8786498,1,新客,一般账单,tenure（推高流失风险↑1.267）；Contract_Month-to-month（推高流失风险↑0.552）；InternetService_Fiber optic（降低流失风险↓0.382）
+0004-TLHLJ,0.8782118,1,新客,一般账单,Contract_Month-to-month（降低流失风险↓0.923）；Contract_Two year（降低流失风险↓0.752）；tenure（降低流失风险↓0.361）
+8245-UMPYT,0.8780854,1,非新客,高账单,Contract_Month-to-month（推高流失风险↑0.624）；tenure（推高流失风险↑0.444）；MonthlyCharges（降低流失风险↓0.352）
+0841-NULXI,0.87776977,1,新客,一般账单,MonthlyCharges（降低流失风险↓1.649）；tenure（降低流失风险↓1.132）；Contract_Month-to-month（降低流失风险↓1.015）
+5159-YFPKQ,0.87767255,1,新客,一般账单,tenure（推高流失风险↑1.168）；Contract_Month-to-month（推高流失风险↑0.539）；SeniorCitizen_1（推高流失风险↑0.448）
+7249-WBIYX,0.8757929,1,非新客,一般账单,InternetService_No（降低流失风险↓0.748）；Contract_Month-to-month（推高流失风险↑0.556）；tenure（推高流失风险↑0.405）
+8258-GSTJK,0.8757697,1,新客,一般账单,Contract_Month-to-month（推高流失风险↑0.483）；MonthlyCharges（推高流失风险↑0.343）；InternetService_Fiber optic（推高流失风险↑0.299）
+6892-XPFPU,0.8751833,1,非新客,高账单,Contract_Month-to-month（推高流失风险↑0.573）；MonthlyCharges（降低流失风险↓0.430）；InternetService_Fiber optic（推高流失风险↑0.340）
+1658-TJVOA,0.8750401,0,新客,一般账单,Contract_Month-to-month（推高流失风险↑0.581）；InternetService_Fiber optic（推高流失风险↑0.360）；PaymentMethod_Electronic check（降低流失风险↓0.229）
+9732-KPKBW,0.87454003,1,新客,一般账单,tenure（降低流失风险↓1.031）；InternetService_Fiber optic（推高流失风险↑0.328）；Contract_Month-to-month（推高流失风险↑0.297）
+8361-LTMKD,0.87172806,1,新客,一般账单,Contract_Month-to-month（推高流失风险↑0.419）；InternetService_Fiber optic（降低流失风险↓0.414）；PaymentMethod_Electronic check（推高流失风险↑0.279）
+1024-GUALD,0.8715369,1,新客,一般账单,tenure（降低流失风险↓1.111）；Contract_Month-to-month（降低流失风险↓1.086）；MonthlyCharges（降低流失风险↓0.695）
+2865-TCHJW,0.871405,1,新客,一般账单,Contract_Month-to-month（降低流失风险↓0.689）；Contract_Two year（降低流失风险↓0.518）；InternetService_Fiber optic（推高流失风险↑0.203）
+6821-BUXUX,0.8695839,1,非新客,高账单,tenure（降低流失风险↓0.952）；Contract_Month-to-month（降低流失风险↓0.693）；MonthlyCharges（降低流失风险↓0.612）
+8083-YTZES,0.86954516,1,新客,一般账单,Contract_Month-to-month（降低流失风险↓0.813）；Contract_Two year（降低流失风险↓0.467）；MonthlyCharges（推高流失风险↑0.410）
+4658-HCOHW,0.86949944,1,非新客,高账单,InternetService_No（降低流失风险↓0.747）；tenure（降低流失风险↓0.570）；Contract_Month-to-month（推高流失风险↑0.488）
+7273-TEFQD,0.86937475,1,新客,一般账单,Contract_Month-to-month（降低流失风险↓0.725）；InternetService_No（降低流失风险↓0.501）；Dependents_Yes（降低流失风险↓0.337）
+3320-VEOYC,0.8684001,0,非新客,高账单,tenure（推高流失风险↑0.692）；Contract_Month-to-month（推高流失风险↑0.622）；PaperlessBilling_True（降低流失风险↓0.337）
+9221-OTIVJ,0.8671874,1,非新客,高账单,InternetService_Fiber optic（降低流失风险↓0.434）；Contract_Month-to-month（推高流失风险↑0.431）；PaymentMethod_Electronic check（降低流失风险↓0.248）
+3519-ZKXGG,0.86709046,1,新客,一般账单,tenure（推高流失风险↑0.549）；Contract_Month-to-month（推高流失风险↑0.532）；InternetService_Fiber optic（降低流失风险↓0.361）
+4317-VTEOA,0.8661274,1,新客,一般账单,tenure（推高流失风险↑1.169）；Contract_Month-to-month（推高流失风险↑0.530）；InternetService_Fiber optic（降低流失风险↓0.396）
+9940-RHLFB,0.86430436,1,新客,一般账单,tenure（降低流失风险↓2.025）；Contract_Month-to-month（降低流失风险↓0.908）；MonthlyCharges（推高流失风险↑0.613）
+2761-OCIAX,0.8639185,1,新客,一般账单,Contract_Month-to-month（推高流失风险↑0.521）；tenure（推高流失风险↑0.492）；InternetService_Fiber optic（降低流失风险↓0.369）
+0388-EOPEX,0.8636957,1,新客,一般账单,Contract_Month-to-month（推高流失风险↑0.577）；InternetService_Fiber optic（推高流失风险↑0.350）；PaymentMethod_Electronic check（降低流失风险↓0.247）
+2959-MJHIC,0.86318654,1,新客,一般账单,tenure（降低流失风险↓2.086）；Contract_Month-to-month（降低流失风险↓0.975）；MonthlyCharges（推高流失风险↑0.895）
+9878-TNQGW,0.8626781,1,新客,一般账单,Contract_Month-to-month（降低流失风险↓0.918）；Contract_Two year（降低流失风险↓0.681）；MonthlyCharges（降低流失风险↓0.391）
+2227-JRSJX,0.85806805,0,非新客,高账单,tenure（降低流失风险↓1.232）；Contract_Month-to-month（降低流失风险↓0.985）；Contract_Two year（降低流失风险↓0.579）
+7235-NXZCP,0.856997,1,新客,一般账单,tenure（推高流失风险↑1.364）；Contract_Month-to-month（推高流失风险↑0.627）；PaperlessBilling_True（降低流失风险↓0.368）
+6979-ZNSFF,0.85624504,1,非新客,一般账单,Contract_Month-to-month（降低流失风险↓0.867）；Contract_Two year（降低流失风险↓0.782）；MonthlyCharges（降低流失风险↓0.582）
+4229-CZMLL,0.8552802,1,新客,一般账单,Contract_Month-to-month（降低流失风险↓0.745）；InternetService_Fiber optic（降低流失风险↓0.266）；PaperlessBilling_True（降低流失风险↓0.232）
+7363-QTBIW,0.8544734,0,非新客,一般账单,tenure（推高流失风险↑1.233）；MonthlyCharges（降低流失风险↓0.649）；Contract_Month-to-month（推高流失风险↑0.616）
+4678-DVQEO,0.8541365,1,新客,一般账单,tenure（降低流失风险↓1.162）；Contract_Month-to-month（降低流失风险↓0.830）；Contract_Two year（降低流失风险↓0.661）
+9334-GWGOW,0.85395426,0,非新客,一般账单,Contract_Month-to-month（推高流失风险↑0.502）；InternetService_Fiber optic（推高流失风险↑0.368）；MonthlyCharges（降低流失风险↓0.260）
+8132-YPVBX,0.85327286,0,新客,一般账单,tenure（降低流失风险↓0.628）；Contract_Month-to-month（推高流失风险↑0.521）；MonthlyCharges（降低流失风险↓0.376）
+1319-YLZJG,0.85225344,0,非新客,一般账单,Contract_Month-to-month（推高流失风险↑0.532）；tenure（降低流失风险↓0.429）；InternetService_Fiber optic（推高流失风险↑0.313）
+8443-ZRDBZ,0.85083276,1,新客,一般账单,InternetService_No（降低流失风险↓0.679）；PaymentMethod_Credit card (automatic)（降低流失风险↓0.503）；Contract_Month-to-month（推高流失风险↑0.475）
+4631-OACRM,0.85076904,1,非新客,一般账单,tenure（推高流失风险↑1.538）；MonthlyCharges（降低流失风险↓1.373）；Contract_Month-to-month（推高流失风险↑0.597）
+6608-QQLVK,0.8493666,1,新客,一般账单,tenure（降低流失风险↓0.563）；Contract_Month-to-month（推高流失风险↑0.434）；InternetService_Fiber optic（降低流失风险↓0.429）
+4115-NZRKS,0.8482862,0,非新客,一般账单,Contract_Month-to-month（降低流失风险↓0.690）；tenure（降低流失风险↓0.590）；MonthlyCharges（推高流失风险↑0.543）
+1475-VWVDO,0.8468443,0,非新客,一般账单,Contract_Month-to-month（降低流失风险↓0.750）；tenure（降低流失风险↓0.617）；MonthlyCharges（降低流失风险↓0.393）
+7817-BOQPW,0.84667134,1,新客,一般账单,Contract_Month-to-month（降低流失风险↓0.859）；Contract_Two year（降低流失风险↓0.681）；MonthlyCharges（降低流失风险↓0.427）
+2919-HBCJO,0.84623164,1,新客,一般账单,InternetService_Fiber optic（降低流失风险↓0.412）；Contract_Month-to-month（推高流失风险↑0.404）；SeniorCitizen_1（推高流失风险↑0.369）
+4735-ASGMA,0.8455539,1,非新客,高账单,Contract_Two year（降低流失风险↓1.056）；Contract_Month-to-month（降低流失风险↓1.019）；InternetService_No（降低流失风险↓0.627）
+9747-DDZOS,0.84519434,1,新客,一般账单,tenure（降低流失风险↓0.745）；MonthlyCharges（降低流失风险↓0.518）；InternetService_Fiber optic（降低流失风险↓0.450）
+5357-TZHPP,0.8442172,1,非新客,一般账单,tenure（降低流失风险↓1.146）；Contract_Month-to-month（降低流失风险↓0.895）；Contract_Two year（降低流失风险↓0.508）
+2325-NBPZG,0.84365565,0,新客,一般账单,tenure（降低流失风险↓1.203）；MonthlyCharges（推高流失风险↑0.714）；Contract_Month-to-month（推高流失风险↑0.412）

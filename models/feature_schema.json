@@ -1,0 +1,24 @@
+{
+  "cat_multi": [
+    "Contract",
+    "PaymentMethod",
+    "InternetService"
+  ],
+  "cat_bin": [
+    "PaperlessBilling",
+    "SeniorCitizen",
+    "Partner",
+    "Dependents"
+  ],
+  "num_base": [
+    "tenure",
+    "MonthlyCharges",
+    "is_new_customer"
+  ],
+  "drop_cols": [
+    "customerID",
+    "gender"
+  ],
+  "target": "Churn",
+  "target_pos": "Yes"
+}

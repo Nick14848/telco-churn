@@ -1,0 +1,33 @@
+# -------------------------
+# Python
+# -------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# Virtual environments
+.env
+.venv/
+venv/
+telco_project/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# -------------------------
+# Data / Models
+# -------------------------
+# 原始数据和大文件建议不要直接入库
+# 但我们的数据样本和model都很小
+# data/
+# models/*.parquet
+# models/*.pkl
+# models/*.h5
+
+# -------------------------
+# OS / IDE
+# -------------------------
+.DS_Store
+.vscode/
